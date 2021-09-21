@@ -1,1 +1,3 @@
-# DeShaw_L_HW1
+# My Amazing Team Project
+
+thia is about a team project yes
